@@ -1,7 +1,8 @@
 # Workshops
 
 ## Data Carpentry
-* 23/12/17 - Foundations 
+* 23/12/17 - Foundations of Astronomical Science 
+    * replicating figures in "Off the beaten path: Gaia reveals GD-1 stars outside of the main stream" by Adrian M. Price-Whelan and Ana Bonaca
 
 ## Carolina Analytics and Data Science
 
