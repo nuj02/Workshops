@@ -20,3 +20,6 @@
 
 ## Free Code Camp
 * 24/06 Responsive Web Design
+
+## IBM
+* 24/06 2024 IBM Quantum Challenge
