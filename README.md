@@ -23,3 +23,5 @@
 
 ## IBM
 * 24/06 2024 IBM Quantum Challenge
+
+## UMD Quantum Machine Learning
